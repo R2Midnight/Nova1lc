@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="left">¡Hola! Soy Nova, un apasionado programador con un enfoque en ciberseguridad etico</h3>
+<h3 align="left">¡Hola! Me presento soy Nova, un apasionado programador con un enfoque en ciberseguridad ético</h3>
 
 ###
 
-<p align="left">Análisis de vulnerabilidad web</p>
+<p align="left">Mis hobbies: Videojuegos, Escuchar música, programar<br><br><br>Análisis de vulnerabilidad web</p>
 
 ###
 
