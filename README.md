@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Mis hobbies: Videojuegos, Escuchar música, programar<br><br><br>Pentesting</p>
+<p align="left">Mis hobbies: Videojuegos, Escuchar música, programar, la mayoria de las veces investigar y cyberseguridad<br><br><br>Pentesting</p>
 
 ###
 
