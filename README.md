@@ -12,11 +12,11 @@
 
 ###
 
-<h1 align="center">Nova</h1>
+<h1 align="center">R2</h1>
 
 ###
 
-<h3 align="left">¡Hola! Me presento soy Nova, un apasionado programador con un enfoque en ciberseguridad ético</h3>
+<h3 align="left">¡Hola! Me presento soy R2, un apasionado programador con un enfoque en ciberseguridad ético</h3>
 
 ###
 
